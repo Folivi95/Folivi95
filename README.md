@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Folivi95
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning and using golang, asp.net core, spring boot and node js.
+- 🌱 I’m currently learning and using spring boot, golang, python, asp.net core, and node js.
 - 💞️ I’m looking to collaborate on Open source software.
 - 📫 How to reach me joshua.folivi@gmail.com
 
